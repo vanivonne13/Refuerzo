@@ -1,6 +1,7 @@
 package refactoring.lab.logica;
 
 public class Fecha {
+	//comentario1
 	private int dia;
 	private int mes;
 	private int anio;
